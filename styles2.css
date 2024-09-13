@@ -1,0 +1,13 @@
+img {max-height: 200; max-width: 200;}
+
+h1 {font-size: 1cm;}
+h2 {font-size: 2cm;}
+h3 {font-size: 3cm;}
+
+.shadowline {border: 0; height: 4px; background: gray; box-shadow: gray;}
+
+body {text-align: justify;}
+
+.BandI {font-weight: bold; font-style: italic;}
+
+table {width: 400;  height: 200; text-align: center;}
